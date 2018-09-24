@@ -1,0 +1,30 @@
+_repo: What-Every-Mother-Should-Know-or-How-Six-Little-Children-Were-Taught-The-Truth_56846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanger, Margaret
+    aliases:
+    - Sanger, Margaret Higgins
+    - Higgins, Margaret Louisa
+    - Sanger, Margaret H.
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '693'
+    url: http://www.gutenberg.org/2009/agents/693
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
+description: ''
+gutenberg_issued: '2018-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex instruction'
+- !lcc 'HQ'
+- GITenberg
+title: What Every Mother Should Know; or, How Six Little Children Were Taught The
+  Truth
+url: http://www.gutenberg.org/ebooks/56846
